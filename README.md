@@ -1,5 +1,5 @@
 # BoyerMoore
-Boyer–Moore stringsearch algorithm
+Boyer–Moore string search algorithm
 A very simple code that implements the "bad char rule" to search string. And "Good suffix rule" has not implemented yet.
 
 # Build
